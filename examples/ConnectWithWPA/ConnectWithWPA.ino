@@ -1,6 +1,6 @@
 /*
 
- This example connects to an WPA/2 protected Wifi network.
+ This example connects to a WPA/2 protected Wifi network.
  Then it prints the  MAC address of the Wifi module,
  the IP address obtained, and other network details.
 
